@@ -21,7 +21,7 @@ export default new Router({
             path: '/',
             name: 'home',
             component: home,
-            redirect:'/openOrder',
+            redirect:'/changeOrder',
             children:[
                 {
                     path: '/openOrder',

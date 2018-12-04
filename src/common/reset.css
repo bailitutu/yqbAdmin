@@ -11,3 +11,28 @@ body,html{
     width: 100%;
     height: 100%;
 }
+.fl{
+    float: left;
+}
+.fr{
+    float: right;
+}
+.tac{
+    text-align: center;
+}
+.tar{
+    text-align: right;
+}
+.tal{
+    text-align: left;
+}
+.oh{
+    overflow: hidden;
+}
+.el-main {
+    background-color: #fff;
+    color: #333;
+}
+.sub_page{
+    padding:20px;
+}
